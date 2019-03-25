@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41890" started-at="2019-03-25T03:09:18Z" finished-at="2019-03-25T03:10:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41890" started-at="2019-03-25T03:09:18Z" finished-at="2019-03-25T03:10:00Z">
+      <class name="com.studentlogin.login">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.studentlogin.login@2ac1fdc4]" name="setUpBeforeClass" is-config="true" duration-ms="13999" started-at="2019-03-25T11:09:18Z" finished-at="2019-03-25T11:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="login1()[pri:0, instance:com.studentlogin.login@2ac1fdc4]" name="login1" duration-ms="27881" started-at="2019-03-25T11:09:32Z" finished-at="2019-03-25T11:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+      </class> <!-- com.studentlogin.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
